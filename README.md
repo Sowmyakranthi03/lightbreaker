@@ -34,7 +34,9 @@
 - Cross-device sync
 
 ## 📸 Screenshots
-
+![image](https://github.com/user-attachments/assets/4dc228c2-9ce6-44aa-8b54-c64a7e4dabc1)   ![image](https://github.com/user-attachments/assets/c057f421-eb5e-44d5-a5ab-2dd5df2e3beb)
+![image](https://github.com/user-attachments/assets/178f9fa3-c7fd-4c58-a01e-49a18335bf97)   ![image](https://github.com/user-attachments/assets/b0c9d51d-e1d5-4efa-a1a5-199c0c28f44f)
+![image](https://github.com/user-attachments/assets/b93ee524-94cf-472a-8fb4-7d4c5f993184)   ![image](https://github.com/user-attachments/assets/0e543447-056b-4a51-91d3-41efcc444cec)
 
 ## 🚀 Getting Started
 
