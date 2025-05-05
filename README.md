@@ -44,6 +44,6 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/yourusername/lightbreaker.git
-cd lightbreaker
+cd LightBreaker
 npm install
 npm start
